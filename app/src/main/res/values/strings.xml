@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorKotlin</string>
+    <string name="sqr_root">√¯</string>
+    <string name="pi">&#928;</string>
+</resources>
